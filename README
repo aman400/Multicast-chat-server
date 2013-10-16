@@ -3,5 +3,5 @@ This can be used to chat with mutiple clients over a LAN.
 
 
 You just need to run server program over one computer in a LAN.
-Other computer just need to run client programs which can automatically scan over the network(Manual address can be provided by the client)
-for server and clients can login and chat with other clients.
+Other computers just need to run client programs which can automatically scan over the network(Manual address can be provided by the client)
+for server and clients can login and chat with others.
