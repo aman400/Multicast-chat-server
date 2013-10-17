@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.util.*;
 public class server
 {
-    Socket sock;                                                                // Create a socket sock
+    Socket sock;
     JButton exit,clear;                                                         
     JFrame frame;
     JTextArea info;
