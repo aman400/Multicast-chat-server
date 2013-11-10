@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Date;
 public class client
 {
+    //Initialize global variables.
     JFrame frame;
     JButton login,logout,exit,send,b5,clear;
     JTextArea incoming;
